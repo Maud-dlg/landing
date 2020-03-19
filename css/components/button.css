@@ -1,0 +1,15 @@
+.btn-green {
+  display: inline-block;
+  background-color: #FA163F;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
+.btn-green:hover {
+  background-color:#52DE97;
+}
+
+.btn-green:active {
+  background-color:#B0EACD;
+}
